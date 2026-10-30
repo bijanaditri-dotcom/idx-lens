@@ -1,10 +1,22 @@
 # Frontend integration boundary
 
-The current working folder is a backend. Its API supplies quote, bar,
-fundamental-table, and sync-log rows. The separately hosted IDX Lens dashboard
-has its own application source and normalized research-provider contract.
+The repository contains the Python backend at its root and the imported visual
+dashboard in `web/`. The backend API supplies quote, bar, fundamental-table,
+and sync-log rows. The dashboard retains its own application server routes and
+normalized research-provider contract, documented in `web/docs/PROVIDER_CONTRACT.md`.
 Pointing that provider setting directly at `/v1/quotes` does not satisfy its
 full contract; integration requires a deliberate adapter.
+
+The source import uses the visual dashboard's hosted version 12, source commit
+`b3b9226a99ac0db4bff77d7cede52b4657645d77`. Its platform hosting identity is
+excluded from this GitHub copy. Application code, the dependency lockfile, and
+placeholder environment template are retained. Importing source does not deploy
+the Site or change its access settings.
+
+For local UI development, install dependencies in `web/` and use its
+`dev:next` script. The default environment starts a labelled demonstration
+dataset without a ChatGPT sign-in or a live MySQL connection. Keep the Python
+API token in a server environment when adding an adapter.
 
 For the planned free static release, prepare compact public JSON snapshots
 from the local pipeline, then let the frontend read those snapshots. Add this

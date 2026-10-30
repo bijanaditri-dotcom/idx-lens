@@ -1,0 +1,8 @@
+'use client';
+import type { Stock } from '@/lib/types';
+import { number } from '@/lib/format';
+const palettes:Record<string,string>={BBCA:'blue',BBRI:'blue',BMRI:'gold',TLKM:'red',ASII:'blue',ANTM:'gold',ICBP:'red',PTBA:'gold',BBNI:'orange',INDF:'red',GOTO:'green',UNTR:'gold'};
+export function StockLogo({symbol,small=false}:{symbol:string;small?:boolean}){return <span aria-hidden="true" className={`stock-logo ${palettes[symbol]??'blue'} ${small?'small':''}`}>{symbol==='IHSG'?'IDX':symbol.slice(0,2)}</span>;}
+export function Signal({value}:{value:Stock['recommendation']}) {return <span className={`signal ${value.toLowerCase()}`}><span/>{value==='BUY'?'Buy signal':value==='WATCH'?'Watch':value==='AVOID'?'Caution':'Incomplete'}</span>;}
+export function ScoreBars({stock}:{stock:Stock}){return <div className="score-bars">{([['fundamental','Fundamental','30%'],['technical','Technical','35%'],['flow','Smart money','20%'],['sentiment','Sentiment','15%']] as const).map(([key,label,weight])=><div className={`score-bar-row ${key}`} key={key}><div><span>{label}<small>{weight}</small></span><strong>{number(stock.layers[key].score)}<small>/100</small></strong></div><div className="bar-track"><span style={{width:`${stock.layers[key].score??0}%`}}/></div></div>)}</div>;}
+export function Score({value,coverage}:{value:number|null;coverage?:number}){return <div className={`score-inline ${value!==null&&value>=75?'high':value!==null&&value<50?'low':''}`} title={`${number(coverage!=null?coverage*100:100)}% evidence coverage; research score, not a probability`}><strong>{number(value)}</strong><span className="score-track"><i style={{width:`${value??0}%`}}/></span></div>;}

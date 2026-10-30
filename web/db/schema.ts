@@ -1,0 +1,5 @@
+import { integer, primaryKey, sqliteTable, text } from 'drizzle-orm/sqlite-core';
+export const stockbitSnapshots=sqliteTable('stockbit_snapshots',{userId:text('user_id').notNull(),symbol:text('symbol').notNull(),payloadJson:text('payload_json').notNull(),updatedAt:text('updated_at').notNull()},table=>[primaryKey({columns:[table.userId,table.symbol]})]);
+export const feedCache=sqliteTable('feed_cache',{cacheKey:text('cache_key').primaryKey(),payloadJson:text('payload_json'),fetchedAt:text('fetched_at'),nextFetchAt:integer('next_fetch_at').notNull().default(0)});
+export const equityResearch=sqliteTable('equity_research',{symbol:text('symbol').primaryKey(),detailJson:text('detail_json'),summaryJson:text('summary_json'),lastSuccessAt:text('last_success_at'),lastAttemptAt:text('last_attempt_at'),scanDate:text('scan_date'),nextScanAt:integer('next_scan_at').notNull().default(0),leaseUntil:integer('lease_until').notNull().default(0),lastError:text('last_error')});
+export const dailyResearch=sqliteTable('daily_research',{date:text('date').primaryKey(),payloadJson:text('payload_json').notNull(),updatedAt:text('updated_at').notNull()});

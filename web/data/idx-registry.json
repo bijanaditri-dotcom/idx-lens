@@ -1,0 +1,4903 @@
+{
+  "source": "KSEI registered local-company shares",
+  "sourceUrl": "https://web.ksei.co.id/services/registered-securities/shares",
+  "asOf": "2026-10-28T15:26:47.067601+00:00",
+  "listingVerified": false,
+  "entries": [
+    {
+      "symbol": "AADI",
+      "name": "ADARO ANDALAN INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AALI",
+      "name": "ASTRA AGRO LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ABBA",
+      "name": "MAHAKA MEDIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ABDA",
+      "name": "ASURANSI BINA DANA ARTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ABMM",
+      "name": "ABM INVESTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ACES",
+      "name": "ASPIRASI HIDUP INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ACRO",
+      "name": "SAMCRO HYOSUNG ADILESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ACST",
+      "name": "ACSET INDONUSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ADCP",
+      "name": "ADHI COMMUTER PROPERTI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ADES",
+      "name": "AKASHA WIRA INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ADHI",
+      "name": "ADHI KARYA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ADMF",
+      "name": "ADIRA DINAMIKA MULTI FINANCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ADMG",
+      "name": "POLYCHEM INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ADMR",
+      "name": "ALAMTRI MINERALS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ADRO",
+      "name": "ALAMTRI RESOURCES INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AEGS",
+      "name": "ANUGERAH SPAREPARTS SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AGAR",
+      "name": "ASIA SEJAHTERA MINA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AGII",
+      "name": "SAMATOR INDO GAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AGRO",
+      "name": "BANK RAYA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AGRS",
+      "name": "BANK IBK INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AHAP",
+      "name": "ASURANSI HARTA AMAN PRATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AIMS",
+      "name": "ARTHA MAHIYA INVESTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AISA",
+      "name": "FKS FOOD SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AKKU",
+      "name": "ANUGERAH KAGUM KARYA UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AKPI",
+      "name": "ARGHA KARYA PRIMA INDUSTRY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AKRA",
+      "name": "AKR CORPORINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AKSI",
+      "name": "MINERAL SUMBERDAYA MANDIRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ALDO",
+      "name": "ALKINDO NARATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ALII",
+      "name": "ANCARA LOGISTICS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ALKA",
+      "name": "ALAKASA INDUSTRINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ALMI",
+      "name": "ALUMINDO LIGHT METAL INDUSTRY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ALTO",
+      "name": "TRI BANYAN TIRTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AMAG",
+      "name": "ASURANSI MULTI ARTHA GUNA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AMAR",
+      "name": "BANK AMAR INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AMFG",
+      "name": "ASAHIMAS FLAT GLASS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AMIN",
+      "name": "ATELIERS MECANIQUES D`INDONESIE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AMMN",
+      "name": "AMMAN MINERAL INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AMMS",
+      "name": "AGUNG MENJANGAN MAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AMOR",
+      "name": "ASHMORE ASSET MANAGEMENT INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AMRT",
+      "name": "SUMBER ALFARIA TRIJAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ANDI",
+      "name": "ANDIRA AGRO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ANJT",
+      "name": "AUSTINDO NUSANTARA JAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ANTM",
+      "name": "ANEKA TAMBANG (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "APEX",
+      "name": "APEXINDO PRATAMA DUTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "APIC",
+      "name": "PACIFIC STRATEGIC FINANCIAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "APII",
+      "name": "ARITA PRIMA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "APLI",
+      "name": "ASIAPLAST INDUSTRIES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "APLN",
+      "name": "AGUNG PODOMORO LAND Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARCI",
+      "name": "ARCHI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AREA",
+      "name": "DUNIA VIRTUAL ONLINE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARGO",
+      "name": "ARGO PANTES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARII",
+      "name": "ATLAS RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARKA",
+      "name": "ARKHA JAYANTI PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARKO",
+      "name": "ARKORA HYDRO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARMY",
+      "name": "ARMIDIAN KARYATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARNA",
+      "name": "ARWANA CITRAMULIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARTA",
+      "name": "ARTHAVEST Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARTI",
+      "name": "RATU PRABU ENERGI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ARTO",
+      "name": "BANK JAGO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASBI",
+      "name": "ASURANSI BINTANG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASDM",
+      "name": "ASURANSI DAYIN MITRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASGR",
+      "name": "ASTRA GRAPHIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASHA",
+      "name": "CILACAP SAMUDERA FISHING INDUSTRY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASII",
+      "name": "ASTRA INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASJT",
+      "name": "ASURANSI JASA TANIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASLC",
+      "name": "AUTOPEDIA SUKSES LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASLI",
+      "name": "ASRI KARYA LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASMI",
+      "name": "ASURANSI MAXIMUS GRAHA PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASPI",
+      "name": "ANDALAN SAKTI PRIMAINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASPR",
+      "name": "ASIA PRAMULIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASRI",
+      "name": "ALAM SUTERA REALTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASRM",
+      "name": "ASURANSI RAMAYANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ASSA",
+      "name": "ADI SARANA ARMADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ATAP",
+      "name": "TRIMITRA PRAWARA GOLDLAND Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ATIC",
+      "name": "ANABATIC TECHNOLOGIES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ATLA",
+      "name": "ATLANTIS SUBSEA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ATPK",
+      "name": "BARA JAYA INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AUTO",
+      "name": "ASTRA OTOPARTS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AVIA",
+      "name": "AVIA AVIAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AWAN",
+      "name": "ERA DIGITAL MEDIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AXIO",
+      "name": "TERA DATA INDONUSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AYAM",
+      "name": "JANU PUTRA SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "AYLS",
+      "name": "AGRO YASA LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BABP",
+      "name": "BANK MNC INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BABY",
+      "name": "MULTITREND INDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BACA",
+      "name": "BANK CAPITAL INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BACH",
+      "name": "BACH MULTI GLOBAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BAIK",
+      "name": "BERSAMA MENCAPAI PUNCAK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BAJA",
+      "name": "SARANACENTRAL BAJATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BALI",
+      "name": "BALI TOWERINDO SENTRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BANK",
+      "name": "BANK ALADIN SYARIAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BAPA",
+      "name": "BEKASI ASRI PEMULA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BAPI",
+      "name": "BHAKTI AGUNG PROPERTINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BATA",
+      "name": "SEPATU BATA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BATR",
+      "name": "BENTENG API TECHNIC Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BAUT",
+      "name": "MITRA ANGKASA SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BAYU",
+      "name": "BAYU BUANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBCA",
+      "name": "BANK CENTRAL ASIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBHI",
+      "name": "ALLO BANK INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBKP",
+      "name": "BANK KB INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBLD",
+      "name": "BUANA FINANCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBMD",
+      "name": "BANK MESTIKA DHARMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBNI",
+      "name": "BANK NEGARA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBRI",
+      "name": "BANK RAKYAT INDONESIA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBRM",
+      "name": "PELAYARAN NASIONAL BINA BUANA RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBSI",
+      "name": "KROM BANK INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBSS",
+      "name": "BUMI BENOWO SUKSES SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBTN",
+      "name": "BANK TABUNGAN NEGARA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BBYB",
+      "name": "BANK NEO COMMERCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BCAP",
+      "name": "MNC KAPITAL INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BCIC",
+      "name": "BANK JTRUST INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BCIP",
+      "name": "BUMI CITRA PERMAI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BDKR",
+      "name": "BERDIKARI PONDASI PERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BDMN",
+      "name": "BANK DANAMON INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BEBS",
+      "name": "BERKAH BETON SADAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BEEF",
+      "name": "ESTIKA TATA TIARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BEER",
+      "name": "JOBUBU JARUM MINAHASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BEKS",
+      "name": "BANK PEMBANGUNAN DAERAH BANTEN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BELI",
+      "name": "GLOBAL DIGITAL NIAGA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BELL",
+      "name": "TRISULA TEXTILE INDUSTRIES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BESS",
+      "name": "BATULICIN NUSANTARA MARITIM Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BEST",
+      "name": "BEKASI FAJAR INDUSTRIAL ESTATE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BFIN",
+      "name": "BFI FINANCE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BGTG",
+      "name": "BANK GANESHA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BHAT",
+      "name": "BHAKTI MULTI ARTHA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BHIT",
+      "name": "MNC ASIA HOLDING Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BIKA",
+      "name": "BINAKARYA JAYA ABADI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BIKE",
+      "name": "BHINEKA INOVASI KETAHANAN ENERGI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BIMA",
+      "name": "PRIMARINDO ASIA INFRASTRUCTURE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BINA",
+      "name": "BANK INA PERDANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BINO",
+      "name": "PERMA PLASINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BIPI",
+      "name": "ASTRINDO NUSANTARA INFRASTRUKTUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BIPP",
+      "name": "BHUWANATALA INDAH PERMAI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BIRD",
+      "name": "BLUE BIRD Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BISI",
+      "name": "BISI INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BJBR",
+      "name": "BANK JABAR BANTEN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BJTM",
+      "name": "BANK PEMBANGUNAN DAERAH JAWA TIMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BKDP",
+      "name": "BUKIT DARMO PROPERTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BKSL",
+      "name": "SENTUL CITY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BKSW",
+      "name": "BANK QNB INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BLES",
+      "name": "SUPERIOR PRIMA SUKSES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BLOG",
+      "name": "TRIMITRA TRANS PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BLTA",
+      "name": "BERLIAN LAJU TANKER Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BLTZ",
+      "name": "GRAHA LAYAR PRIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BLUE",
+      "name": "BERKAH PRIMA PERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BMAS",
+      "name": "BANK KASIKORN INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BMBL",
+      "name": "LAVENDER BINA CENDIKIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BMHS",
+      "name": "BUNDAMEDIK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BMRI",
+      "name": "BANK MANDIRI ( PERSERO ) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BMSR",
+      "name": "BINTANG MITRA SEMESTARAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BMTR",
+      "name": "GLOBAL MEDIACOM Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BNBA",
+      "name": "BANK BUMI ARTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BNBR",
+      "name": "BAKRIE AND BROTHERS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BNGA",
+      "name": "BANK CIMB NIAGA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BNII",
+      "name": "BANK MAYBANK INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BNLI",
+      "name": "BANK PERMATA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BOAT",
+      "name": "NEWPORT MARINE SERVICES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BOBA",
+      "name": "FORMOSA INGREDIENT FACTORY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BOGA",
+      "name": "APOLLO GLOBAL INTERACTIVE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BOLA",
+      "name": "BALI BINTANG SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BOLT",
+      "name": "GARUDA METALINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BOSS",
+      "name": "BORNEO OLAH SARANA SUKSES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BPFI",
+      "name": "WOORI FINANCE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BPII",
+      "name": "BATAVIA PROSPERINDO INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BPTR",
+      "name": "BATAVIA PROSPERINDO TRANS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BRAM",
+      "name": "INDO KORDSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BRAU",
+      "name": "BERAU COAL ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BREN",
+      "name": "BARITO RENEWABLES ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BRIS",
+      "name": "BANK SYARIAH INDONESIA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BRMS",
+      "name": "BUMI RESOURCES MINERALS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BRNA",
+      "name": "BERLINA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BRPT",
+      "name": "BARITO PACIFIC Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BRRC",
+      "name": "RAJA ROTI CEMERLANG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BSBK",
+      "name": "WULANDARI BANGUN LAKSANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BSDE",
+      "name": "BUMI SERPONG DAMAI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BSIM",
+      "name": "BANK SINAR MAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BSML",
+      "name": "BINTANG SAMUDERA MANDIRI LINES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BSSR",
+      "name": "BARAMULTI SUKSESSARANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BSWD",
+      "name": "BANK OF INDIA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BTEK",
+      "name": "BUMI TEKNOKULTURA UNGGUL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BTEL",
+      "name": "BAKRIE TELECOM Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BTON",
+      "name": "BETONJAYA MANUNGGAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BTPN",
+      "name": "BANK SMBC INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BTPS",
+      "name": "BANK BTPN SYARIAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BUAH",
+      "name": "SEGAR KUMALA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BUDI",
+      "name": "BUDI STARCH & SWEETENER Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BUKA",
+      "name": "BUKALAPAK.COM Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BUKK",
+      "name": "BUKAKA TEKNIK UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BULL",
+      "name": "BUANA LINTAS LAUTAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BUMI",
+      "name": "BUMI RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BUVA",
+      "name": "BUKIT ULUWATU VILLA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BVIC",
+      "name": "BANK VICTORIA INTERNATIONAL  Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BWPT",
+      "name": "EAGLE HIGH PLANTATIONS, Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "BYAN",
+      "name": "BAYAN RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CAKK",
+      "name": "CAHAYAPUTRA ASA KERAMIK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CAMP",
+      "name": "CAMPINA ICE CREAM INDUSTRY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CANI",
+      "name": "CAPITOL NUSANTARA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CARE",
+      "name": "METRO HEALTHCARE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CARS",
+      "name": "INDUSTRI DAN PERDAGANGAN BINTRACO DHARMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CASA",
+      "name": "CAPITAL FINANCIAL INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CASH",
+      "name": "CASHLEZ WORLDWIDE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CASS",
+      "name": "CAHAYA AERO SERVICES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CBDK",
+      "name": "BANGUN KOSAMBI SUKSES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CBMF",
+      "name": "CAHAYA BINTANG MEDAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CBPE",
+      "name": "CITRA BUANA PRASIDA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CBRE",
+      "name": "CAKRA BUANA RESOURCES ENERGI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CBUT",
+      "name": "CITRA BORNEO UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CCSI",
+      "name": "COMMUNICATION CABLE SYSTEMS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CDIA",
+      "name": "CHANDRA DAYA INVESTASI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CEKA",
+      "name": "WILMAR CAHAYA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CENT",
+      "name": "CENTRATAMA TELEKOMUNIKASI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CFIN",
+      "name": "CLIPAN FINANCE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CGAS",
+      "name": "CITRA NUSANTARA GEMILANG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CHEK",
+      "name": "DIASTIKA BIOTEKINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CHEM",
+      "name": "CHEMSTAR INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CHIP",
+      "name": "PELITA TEKNOLOGI GLOBAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CINT",
+      "name": "CHITOSE INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CITA",
+      "name": "CITA MINERAL INVESTINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CITY",
+      "name": "NATURA CITY DEVELOPMENTS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CLAY",
+      "name": "CITRA PUTRA REALTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CLEO",
+      "name": "SARIGUNA PRIMATIRTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CLPI",
+      "name": "COLORPAK INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CMNP",
+      "name": "CITRA MARGA NUSAPHALA PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CMNT",
+      "name": "CEMINDO GEMILANG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CMPP",
+      "name": "AIRASIA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CMRY",
+      "name": "CISARUA MOUNTAIN DAIRY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CNKO",
+      "name": "EXPLOITASI ENERGI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CNMA",
+      "name": "NUSANTARA SEJAHTERA RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "COAL",
+      "name": "BLACK DIAMOND RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "COCO",
+      "name": "WAHANA INTERFOOD NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "COIN",
+      "name": "INDOKRIPTO KOIN SEMESTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "COWL",
+      "name": "COWELL DEVELOPMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CPIN",
+      "name": "CHAROEN POKPHAND INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CPRI",
+      "name": "CAPRI NUSA SATU PROPERTI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CPRO",
+      "name": "CENTRAL PROTEINAPRIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CRAB",
+      "name": "TOBA SURIMI INDUSTRIES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CRSN",
+      "name": "CARSURIN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CSAP",
+      "name": "CATUR SENTOSA ADIPRANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CSIS",
+      "name": "CAHAYASAKTI INVESTINDO SUKSES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CSMI",
+      "name": "CIPTA SELERA MURNI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CSRA",
+      "name": "CISADANE SAWIT RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CTBN",
+      "name": "CITRA TUBINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CTRA",
+      "name": "CIPUTRA DEVELOPMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CTTH",
+      "name": "CITATAH  Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CUAN",
+      "name": "PETRINDO JAYA KREASI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "CYBR",
+      "name": "ITSEC ASIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DAAZ",
+      "name": "DAAZ BARA LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DADA",
+      "name": "DIAMOND CITRA PROPERTINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DART",
+      "name": "DUTA ANGGADA REALTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DATA",
+      "name": "REMALA ABADI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DAYA",
+      "name": "DUTA INTIDAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DCII",
+      "name": "DCI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DEAL",
+      "name": "DEWATA FREIGHTINTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DEFI",
+      "name": "DANASUPRA ERAPACIFIC Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DEPO",
+      "name": "CATURKARDA DEPO BANGUNAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DEWA",
+      "name": "DARMA HENWA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DEWI",
+      "name": "DEWI SHRI FARMINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DFAM",
+      "name": "DAFAM PROPERTY INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DGIK",
+      "name": "NUSA KONSTRUKSI ENJINIRING Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DGNS",
+      "name": "DIAGNOS LABORATORIUM UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DGWG",
+      "name": "DELTA GIRI WACANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DIGI",
+      "name": "ARKADIA DIGITAL MEDIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DILD",
+      "name": "INTILAND DEVELOPMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DIVA",
+      "name": "DISTRIBUSI VOUCHER NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DKFT",
+      "name": "CENTRAL OMEGA RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DKHH",
+      "name": "CIPTA SARANA MEDIKA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DLTA",
+      "name": "DELTA DJAKARTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DMAD",
+      "name": "DEEMADE KARYA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DMAS",
+      "name": "PURADELTA LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DMMX",
+      "name": "DIGITAL MEDIATAMA MAXIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DMND",
+      "name": "DIAMOND FOOD INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DNAR",
+      "name": "BANK OKE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DNET",
+      "name": "INDORITEL MAKMUR INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DOID",
+      "name": "BUMA INTERNASIONAL GRUP Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DOOH",
+      "name": "ERA MEDIA SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DOSS",
+      "name": "GLOBAL SUKSES DIGITAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DPNS",
+      "name": "DUTA PERTIWI NUSANTARA",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DPUM",
+      "name": "DUA PUTRA UTAMA MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DRMA",
+      "name": "DHARMA POLIMETAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DSFI",
+      "name": "DHARMA SAMUDERA FISHING INDUSTRIES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DSNG",
+      "name": "DHARMA SATYA NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DSSA",
+      "name": "DIAN SWASTATIKA SENTOSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DUCK",
+      "name": "JAYA BERSAMA INDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DUTI",
+      "name": "DUTA PERTIWI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DVLA",
+      "name": "DARYA - VARIA LABORATORIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DWGL",
+      "name": "DWI GUNA LAKSANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "DYAN",
+      "name": "DYANDRA MEDIA INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EAST",
+      "name": "EASTPARC HOTEL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ECII",
+      "name": "ELECTRONIC CITY INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EDGE",
+      "name": "INDOINTERNET Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EKAD",
+      "name": "EKADHARMA INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ELIT",
+      "name": "DATA SINERGITAMA JAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ELPI",
+      "name": "PELAYARAN NASIONAL EKALYA PURNAMASARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ELSA",
+      "name": "ELNUSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ELTY",
+      "name": "BAKRIELAND DEVELOPMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EMAS",
+      "name": "MERDEKA GOLD RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EMDE",
+      "name": "MEGAPOLITAN DEVELOPMENTS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EMMI",
+      "name": "ESA MEDIKA MANDIRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EMTK",
+      "name": "ELANG MAHKOTA TEKNOLOGI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ENAK",
+      "name": "CHAMP RESTO INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ENRG",
+      "name": "ENERGI MEGA PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ENVY",
+      "name": "ENVY TECHNOLOGIES INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ENZO",
+      "name": "MORENZO ABADI PERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EPAC",
+      "name": "MEGALESTARI EPACK SENTOSARAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EPMT",
+      "name": "ENSEVAL PUTERA MEGATRADING Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ERAA",
+      "name": "ERAJAYA SWASEMBADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ERAL",
+      "name": "SINAR EKA SELARAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ERTX",
+      "name": "ERATEX DJAJA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ESIP",
+      "name": "SINERGI INTI PLASTINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ESSA",
+      "name": "ESSA INDUSTRIES INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ESTA",
+      "name": "ESTA MULTI USAHA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ESTI",
+      "name": "EVER SHINE TEXTILE INDUSTRY",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ETWA",
+      "name": "ETERINDO WAHANATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EURO",
+      "name": "ESTEE GOLD FEET Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "EXCL",
+      "name": "XLSMART TELECOM SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FAPA",
+      "name": "FAP AGRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FAST",
+      "name": "FAST FOOD INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FASW",
+      "name": "FAJAR SURYA WISESA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FILM",
+      "name": "MD ENTERTAINMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FIMP",
+      "name": "FIMPERKASA UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FIRE",
+      "name": "ALFA ENERGI INVESTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FISH",
+      "name": "FKS MULTI AGRO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FITT",
+      "name": "FORTUNE RESOURCES INVESTMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FLMC",
+      "name": "FALMACO NONWOVEN INDUSTRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FMII",
+      "name": "FORTUNE MATE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FOLK",
+      "name": "MULTI GARAM UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FOOD",
+      "name": "SENTRA FOOD INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FORE",
+      "name": "FORE KOPI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FORU",
+      "name": "FORTUNE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FORZ",
+      "name": "FORZA LAND INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FPNI",
+      "name": "LOTTE CHEMICAL TITAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FUJI",
+      "name": "FUJI FINANCE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FUTR",
+      "name": "FUTURA ENERGI GLOBAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "FWCT",
+      "name": "WIJAYA CAHAYA TIMBER Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GAMA",
+      "name": "AKSARA GLOBAL DEVELOPMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GDST",
+      "name": "GUNAWAN DIANJAYA STEEL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GDYR",
+      "name": "GOODYEAR INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GEMA",
+      "name": "GEMA GRAHASARANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GEMS",
+      "name": "GOLDEN ENERGY MINES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GGRM",
+      "name": "GUDANG GARAM Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GGRP",
+      "name": "GUNUNG RAJA PAKSI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GHON",
+      "name": "GIHON TELEKOMUNIKASI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GIAA",
+      "name": "GARUDA INDONESIA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GJTL",
+      "name": "GAJAH TUNGGAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GLOB",
+      "name": "GLOBE KITA TERANG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GLVA",
+      "name": "GALVA TECHNOLOGIES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GMFI",
+      "name": "GARUDA MAINTENANCE FACILITY AERO ASIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GMTD",
+      "name": "GOWA MAKASSAR TOURISM DEVELOPMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GOLD",
+      "name": "VISI TELEKOMUNIKASI INFRASTRUKTUR Tbk, PT",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GOLF",
+      "name": "INTRA GOLFLINK RESORTS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GOLL",
+      "name": "GOLDEN PLANTATION Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GOOD",
+      "name": "GARUDAFOOD PUTRA PUTRI JAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GOTO",
+      "name": "GOTO GOJEK TOKOPEDIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GPRA",
+      "name": "PERDANA GAPURAPRIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GPSO",
+      "name": "GEOPRIMA SOLUSI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GRIA",
+      "name": "INGRIA PRATAMA CAPITALINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GRPH",
+      "name": "GRIPTHA PUTRA PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GRPM",
+      "name": "GRAHA PRIMA MENTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GSMF",
+      "name": "EQUITY DEVELOPMENT INVESTMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GTBO",
+      "name": "GARDA TUJUH BUANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GTRA",
+      "name": "GRAHAPRIMA SUKSESMANDIRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GTSI",
+      "name": "GTS INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GULA",
+      "name": "AMAN AGRINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GUNA",
+      "name": "GUNANUSA ERAMANDIRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GWSA",
+      "name": "GREENWOOD SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "GZCO",
+      "name": "GOZCO PLANTATIONS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HADE",
+      "name": "HIMALAYA ENERGI PERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HAIS",
+      "name": "HASNUR INTERNASIONAL SHIPPING Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HAJJ",
+      "name": "ARSY BUANA TRAVELINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HALO",
+      "name": "HALONI JANE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HATM",
+      "name": "HABCO TRANS MARITIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HBAT",
+      "name": "MINAHASA MEMBANGUN HEBAT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HDFA",
+      "name": "RADANA BHASKARA FINANCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HDIT",
+      "name": "HENSEL DAVEST INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HDTX",
+      "name": "PANASIA INDO RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HEAL",
+      "name": "MEDIKALOKA HERMINA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HELI",
+      "name": "JAYA TRISHINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HERO",
+      "name": "DFI RETAIL NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HEXA",
+      "name": "HEXINDO ADIPERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HGII",
+      "name": "HERO GLOBAL INVESTMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HILL",
+      "name": "HILLCON Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HITS",
+      "name": "HUMPUSS INTERMODA TRANSPORTASI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HKMU",
+      "name": "HK METALS UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HMSP",
+      "name": "HANJAYA MANDALA SAMPOERNA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HOKI",
+      "name": "BUYUNG POETRA SEMBADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HOME",
+      "name": "HOTEL MANDARINE REGENCY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HOMI",
+      "name": "GRAND HOUSE MULIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HOPE",
+      "name": "HARAPAN DUTA PERTIWI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HOTL",
+      "name": "SARASWATI GRIYA LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HRME",
+      "name": "MENTENG HERITAGE REALTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HRTA",
+      "name": "HARTADINATA ABADI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HRUM",
+      "name": "HARUM ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HUMI",
+      "name": "HUMPUSS MARITIM INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "HYGN",
+      "name": "ECOCARE INDO PASIFIK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IATA",
+      "name": "KARYA PACIFIC ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IBFN",
+      "name": "INTAN BARU PRANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IBOS",
+      "name": "INDO BOGA SUKSES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IBST",
+      "name": "INTI BANGUN SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ICBP",
+      "name": "INDOFOOD CBP SUKSES MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ICON",
+      "name": "ISLAND CONCEPTS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IDEA",
+      "name": "IDEA INDONESIA AKADEMI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IDPR",
+      "name": "INDONESIA PONDASI RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IFII",
+      "name": "INDONESIA FIBREBOARD INDUSTRY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IFSH",
+      "name": "IFISHDECO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IGAR",
+      "name": "CHAMPION PACIFIC INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IIKP",
+      "name": "INTI AGRI RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IKAI",
+      "name": "INTIKERAMIK ALAMASRI INDUSTRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IKAN",
+      "name": "ERA MANDIRI CEMERLANG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IKBI",
+      "name": "SUMI INDO KABEL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IKPM",
+      "name": "IKAPHARMINDO PUTRAMAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IMAS",
+      "name": "INDOMOBIL SUKSES INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IMJS",
+      "name": "INDOMOBIL MULTI JASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IMPC",
+      "name": "IMPACK PRATAMA INDUSTRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INAF",
+      "name": "INDOFARMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INAI",
+      "name": "INDAL ALUMINIUM INDUSTRY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INCF",
+      "name": "INDO KOMODITI KORPORA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INCI",
+      "name": "INTANWIJAYA INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INCO",
+      "name": "VALE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INDF",
+      "name": "INDOFOOD SUKSES MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INDO",
+      "name": "ROYALINDO INVESTA WIJAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INDR",
+      "name": "INDO-RAMA SYNTHETICS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INDS",
+      "name": "INDOSPRING Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INDX",
+      "name": "TANAH LAUT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INDY",
+      "name": "INDIKA ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INET",
+      "name": "SINERGI INTI ANDALAN PRIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INKP",
+      "name": "INDAH KIAT PULP AND PAPER Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INOV",
+      "name": "INOCYCLE TECHNOLOGY GROUP Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INPC",
+      "name": "BANK ARTHA GRAHA INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INPP",
+      "name": "INDONESIAN PARADISE PROPERTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INPS",
+      "name": "INDAH PRAKASA SENTOSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INRU",
+      "name": "TOBA PULP LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INTA",
+      "name": "INTRACO PENTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INTD",
+      "name": "INTER DELTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "INTP",
+      "name": "INDOCEMENT TUNGGAL PRAKARSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IOTF",
+      "name": "SUMBER SINERGI MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IPAC",
+      "name": "ERA GRAHAREALTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IPCC",
+      "name": "INDONESIA KENDARAAN TERMINAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IPCM",
+      "name": "JASA ARMADA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IPOL",
+      "name": "INDOPOLY SWAKARSA INDUSTRY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IPPE",
+      "name": "INDO PURECO PRATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IPTV",
+      "name": "MNC VISION NETWORKS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IRRA",
+      "name": "ITAMA RANORAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "IRSX",
+      "name": "FOLAGO GLOBAL NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ISAP",
+      "name": "ISRA PRESISI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ISAT",
+      "name": "INDOSAT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ISEA",
+      "name": "INDO AMERICAN SEAFOODS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ISSP",
+      "name": "STEEL PIPE INDUSTRY OF INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ITIC",
+      "name": "INDONESIAN TOBACCO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ITMA",
+      "name": "SUMBER ENERGI ANDALAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ITMG",
+      "name": "INDO TAMBANGRAYA MEGAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JARR",
+      "name": "JHONLIN AGRO RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JASS",
+      "name": "JASA ANGKASA SEMESTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JAST",
+      "name": "JASNITA TELEKOMINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JATI",
+      "name": "INFORMASI TEKNOLOGI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JAWA",
+      "name": "JAYA AGRA WATTIE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JAYA",
+      "name": "ARMADA BERJAYA TRANS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JECC",
+      "name": "JEMBO CABLE COMPANY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JECX",
+      "name": "NITRASANATA DHARMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JELI",
+      "name": "NIRAMAS UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JGLE",
+      "name": "GRAHA ANDRASENTRA PROPERTINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JIHD",
+      "name": "JAKARTA INTERNATIONAL HOTELS & DEVELOPMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JKON",
+      "name": "JAYA KONSTRUKSI MANGGALA PRATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JKSW",
+      "name": "JAKARTA KYOEI STEEL WORKS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JMAS",
+      "name": "ASURANSI JIWA SYARIAH JASA MITRA ABADI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JPFA",
+      "name": "JAPFA COMFEED INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JRPT",
+      "name": "JAYA REAL PROPERTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JSKY",
+      "name": "SKY ENERGY INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JSMR",
+      "name": "JASA MARGA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JSPT",
+      "name": "JAKARTA SETIABUDI INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "JTPE",
+      "name": "JASUINDO TIGA PERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KAEF",
+      "name": "KIMIA FARMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KAQI",
+      "name": "JANTRA GRUPO INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KARW",
+      "name": "MERATUS JASA PRIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KAYU",
+      "name": "DARMI BERSAUDARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KBAG",
+      "name": "KARYA BERSAMA ANUGERAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KBLI",
+      "name": "KMI Wire and Cable Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KBLM",
+      "name": "KABELINDO MURNI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KBLV",
+      "name": "FIRST MEDIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KBRI",
+      "name": "KERTAS BASUKI RACHMAT INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KDSI",
+      "name": "KEDAWUNG SETIA INDUSTRIAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KDTN",
+      "name": "PURI SENTUL PERMAI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KEEN",
+      "name": "KENCANA ENERGI LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KEJU",
+      "name": "MULIA BOGA RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KETR",
+      "name": "KETROSDEN TRIASMITRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KIAS",
+      "name": "KERAMIKA INDONESIA ASSOSIASI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KICI",
+      "name": "KEDAUNG INDAH CAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KIJA",
+      "name": "KAWASAN INDUSTRI JABABEKA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KING",
+      "name": "HOFFMEN CLEANINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KINO",
+      "name": "KINO INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KIOS",
+      "name": "KIOSON KOMERSIAL INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KJEN",
+      "name": "KRIDA JARINGAN NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KKES",
+      "name": "KUSUMA KEMINDO SENTOSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KKGI",
+      "name": "RESOURCE ALAM INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KLAS",
+      "name": "PELAYARAN KURNIA LAUTAN SEMESTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KLBF",
+      "name": "KALBE FARMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KLIN",
+      "name": "KLINKO KARYA IMAJI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KMDS",
+      "name": "KURNIAMITRA DUTA SENTOSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KMTR",
+      "name": "KIRANA MEGATARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KOBX",
+      "name": "KOBEXINDO TRACTORS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KOCI",
+      "name": "KOKOH EXA NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KOIN",
+      "name": "KOKOH INTI AREBAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KOKA",
+      "name": "KOKA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KONI",
+      "name": "PERDANA BANGUN PUSAKA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KOPI",
+      "name": "MITRA ENERGI PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KOTA",
+      "name": "DMS PROPERTINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KPAL",
+      "name": "STEADFAST MARINE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KPAS",
+      "name": "COTTONINDO ARIESTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KPIG",
+      "name": "MNC TOURISM INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KRAH",
+      "name": "GRAND KARTECH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KRAS",
+      "name": "KRAKATAU STEEL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KREN",
+      "name": "QUANTUM CLOVERA INVESTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KRYA",
+      "name": "BANGUN KARYA PERKASA JAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KSIX",
+      "name": "KENTANIX SUPRA INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "KUAS",
+      "name": "ACE OLDFIELDS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LABA",
+      "name": "GREEN POWER GROUP Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LABS",
+      "name": "UBC MEDICAL INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LAJU",
+      "name": "JASA BERDIKARI LOGISTICS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LAND",
+      "name": "TRIMITRA PROPERTINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LAPD",
+      "name": "LEYAND INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LCGP",
+      "name": "EUREKA PRIMA JAKARTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LCKM",
+      "name": "LCK GLOBAL KEDATON Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LEAD",
+      "name": "LOGINDO SAMUDRAMAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LFLO",
+      "name": "IMAGO MULIA PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LIFE",
+      "name": "MSIG LIFE INSURANCE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LINK",
+      "name": "LINK NET Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LION",
+      "name": "LION METAL WORKS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LIVE",
+      "name": "HOMECO VICTORIA MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LMAS",
+      "name": "LIMAS INDONESIA MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LMAX",
+      "name": "LUPROMAX PELUMAS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LMPI",
+      "name": "LANGGENG MAKMUR INDUSTRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LMSH",
+      "name": "LIONMESH PRIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LOPI",
+      "name": "LOGISTICSPLUS INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LPCK",
+      "name": "LIPPO CIKARANG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LPGI",
+      "name": "LIPPO GENERAL INSURANCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LPIN",
+      "name": "MULTI PRIMA SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LPKR",
+      "name": "LIPPO KARAWACI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LPLI",
+      "name": "STAR PACIFIC Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LPPF",
+      "name": "MDS RETAILING Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LPPS",
+      "name": "LENOX PASIFIK INVESTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LRNA",
+      "name": "EKA SARI LORENA TRANSPORT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LSIP",
+      "name": "PP LONDON SUMATRA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LTLS",
+      "name": "LAUTAN LUAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LUCK",
+      "name": "SENTRAL MITRA INFORMATIKA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "LUCY",
+      "name": "LIMA DUA LIMA TIGA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MABA",
+      "name": "MARGA ABHINAYA ABADI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MAGP",
+      "name": "MULTI AGRO GEMILANG PLANTATION Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MAHA",
+      "name": "MANDIRI HERINDO ADIPERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MAIN",
+      "name": "MALINDO FEEDMILL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MAMI",
+      "name": "MAS MURNI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MANG",
+      "name": "MANGGUNG POLAHRAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MAPA",
+      "name": "MAP AKTIF ADIPERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MAPB",
+      "name": "MAP BOGA ADIPERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MAPI",
+      "name": "MITRA ADIPERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MARI",
+      "name": "MAHAKA RADIO INTEGRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MARK",
+      "name": "MARK DYNAMICS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MASA",
+      "name": "MULTISTRADA ARAH SARANA TBK",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MASB",
+      "name": "BANK MULTIARTA SENTOSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MAXI",
+      "name": "MAXINDO KARYA ANUGERAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MAYA",
+      "name": "BANK MAYAPADA INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MBAP",
+      "name": "MITRABARA ADIPERDANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MBMA",
+      "name": "MERDEKA BATTERY MATERIALS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MBSS",
+      "name": "MITRABAHTERA SEGARA SEJATI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MBTO",
+      "name": "MARTINA BERTO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MCAS",
+      "name": "M CASH INTEGRASI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MCOL",
+      "name": "PRIMA ANDALAN MANDIRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MCOR",
+      "name": "BANK CHINA CONSTRUCTION BANK INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MDIA",
+      "name": "INTERMEDIA CAPITAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MDIY",
+      "name": "DAYA INTIGUNA YASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MDKA",
+      "name": "MERDEKA COPPER GOLD Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MDKI",
+      "name": "EMDEKI UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MDLA",
+      "name": "MEDELA POTENTIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MDLN",
+      "name": "MODERNLAND REALTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MDRN",
+      "name": "MODERN INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MEDC",
+      "name": "MEDCO ENERGI INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MEDS",
+      "name": "HETZER MEDICAL INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MEGA",
+      "name": "BANK MEGA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MEJA",
+      "name": "HARTA DJAYA KARYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MENN",
+      "name": "MENN TEKNOLOGI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MERI",
+      "name": "MERRY RIANA EDUKASI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MERK",
+      "name": "MERCK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "META",
+      "name": "NUSANTARA INFRASTRUCTURE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MFIN",
+      "name": "MANDALA MULTIFINANCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MFMI",
+      "name": "MULTIFILING MITRA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MGLV",
+      "name": "NEXAI DIGITAL INFRASTRUKTUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MGNA",
+      "name": "MAGNA INVESTAMA MANDIRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MGRO",
+      "name": "MAHKOTA GROUP Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MHKI",
+      "name": "MULTI HANNA KREASINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MICE",
+      "name": "MULTI INDOCITRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MIDI",
+      "name": "MIDI UTAMA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MIKA",
+      "name": "MITRA KELUARGA KARYASEHAT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MINA",
+      "name": "SANURHASTA MITRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MINE",
+      "name": "SINAR TERANG MANDIRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MIRA",
+      "name": "MITRA INTERNATIONAL RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MITI",
+      "name": "MITRA INVESTINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MKAP",
+      "name": "MULTIKARYA ASIA PASIFIK RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MKNT",
+      "name": "MITRA KOMUNIKASI NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MKPI",
+      "name": "METROPOLITAN KENTJANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MKTR",
+      "name": "MENTHOBI KARYATAMA RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MLBI",
+      "name": "MULTI BINTANG INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MLIA",
+      "name": "MULIA INDUSTRINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MLPL",
+      "name": "MULTIPOLAR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MLPT",
+      "name": "MULTIPOLAR TECHNOLOGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MMIX",
+      "name": "MULTI MEDIKA INTERNASIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MMLP",
+      "name": "MEGA MANUNGGAL PROPERTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MNCN",
+      "name": "MEDIA NUSANTARA CITRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MOLI",
+      "name": "MADUSARI MURNI INDAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MORA",
+      "name": "EKAMAS MORA REPUBLIK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MPIX",
+      "name": "MITRA PEDAGANG INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MPMX",
+      "name": "MITRA PINASTHIKA MUSTIKA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MPOW",
+      "name": "MEGAPOWER MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MPPA",
+      "name": "MATAHARI PUTRA PRIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MPRO",
+      "name": "MAHA PROPERTI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MPXL",
+      "name": "MPX LOGISTICS INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MRAT",
+      "name": "MUSTIKA RATU Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MREI",
+      "name": "MASKAPAI REASURANSI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MSIE",
+      "name": "MULTISARANA INTAN EDUKA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MSIN",
+      "name": "MNC DIGITAL ENTERTAINMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MSJA",
+      "name": "MULTI SPUNINDO JAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MSKY",
+      "name": "MNC SKY VISION Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MSTI",
+      "name": "MASTERSYSTEM INFOTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MTDL",
+      "name": "METRODATA ELECTRONICS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MTEL",
+      "name": "DAYAMITRA TELEKOMUNIKASI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MTFN",
+      "name": "CAPITALINC INVESTMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MTLA",
+      "name": "METROPOLITAN LAND Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MTMH",
+      "name": "MURNI SADAR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MTPS",
+      "name": "META EPSI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MTRA",
+      "name": "MITRA PEMUDA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MTSM",
+      "name": "METRO REALTY Tbk, PT",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MTWI",
+      "name": "MALACCA TRUST WUWUNGAN INSURANCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MUTU",
+      "name": "MUTUAGUNG LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MYOH",
+      "name": "SAMINDO RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MYOR",
+      "name": "MAYORA INDAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MYRX",
+      "name": "HANSON INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "MYTX",
+      "name": "ASIA PACIFIC INVESTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NAIK",
+      "name": "ADIWARNA ANUGERAH ABADI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NANO",
+      "name": "NANOTECH INDONESIA GLOBAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NASA",
+      "name": "ANDALAN PERKASA ABADI  Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NASI",
+      "name": "WAHANA INTI MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NATO",
+      "name": "OLYMPUS STRATEGIC INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NAYZ",
+      "name": "HASSANA BOGA SEJAHTERA TBK",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NCKL",
+      "name": "TRIMEGAH BANGUN PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NELY",
+      "name": "PELAYARAN NELLY DWI PUTRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NEST",
+      "name": "ESTA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NETV",
+      "name": "MDTV MEDIA TECHNOLOGIES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NFCX",
+      "name": "NFC INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NICE",
+      "name": "ADHI KARTIKO PRATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NICK",
+      "name": "CHARNIC CAPITAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NICL",
+      "name": "PAM MINERAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NIKL",
+      "name": "PELAT TIMAH NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NINE",
+      "name": "TECHNO9 INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NIPS",
+      "name": "NIPRESS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NIRO",
+      "name": "CITY RETAIL DEVELOPMENTS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NISP",
+      "name": "BANK OCBC NISP Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NOBU",
+      "name": "BANK NATIONALNOBU Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NPGF",
+      "name": "NUSA PALAPA GEMILANG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NRCA",
+      "name": "NUSA RAYA CIPTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NSSS",
+      "name": "NUSANTARA SAWIT SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NTBK",
+      "name": "NUSATAMA BERKAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NUSA",
+      "name": "SINERGI MEGAH INTERNUSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "NZIA",
+      "name": "NUSANTARA ALMAZIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OASA",
+      "name": "MAHARAKSA BIRU ENERGI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OBAT",
+      "name": "BRIGIT BIOFARMAKA TEKNOLOGI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OBMD",
+      "name": "OBM DRILCHEM Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OCAP",
+      "name": "ONIX CAPITAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OILS",
+      "name": "INDO OIL PERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OKAS",
+      "name": "ANCORA INDONESIA RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OLIV",
+      "name": "ATLAS NEXUS GROUP Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OMED",
+      "name": "JAYAMAS MEDICA INDUSTRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OMRE",
+      "name": "INDONESIA PRIMA PROPERTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "OPMS",
+      "name": "OPTIMA PRIMA METAL SINERGI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PACK",
+      "name": "ABADI NUSANTARA HIJAU INVESTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PADA",
+      "name": "PERSONEL ALIH DAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PADI",
+      "name": "MINNA PADI INVESTAMA SEKURITAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PAFI",
+      "name": "PANASIA FILAMENT INTI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PALM",
+      "name": "PROVIDENT INVESTASI BERSAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PAMG",
+      "name": "BIMA SAKTI PERTIWI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PANI",
+      "name": "PANTAI INDAH KAPUK DUA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PANR",
+      "name": "PANORAMA SENTRAWISATA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PANS",
+      "name": "PANIN SEKURITAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PART",
+      "name": "CIPTA PERDANA LANCAR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PBID",
+      "name": "PANCA BUDI IDAMAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PBRX",
+      "name": "PAN BROTHERS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PBSA",
+      "name": "PARAMITA BANGUN SARANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PCAR",
+      "name": "PRIMA CAKRAWALA ABADI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PDES",
+      "name": "DESTINASI TIRTA NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PDPP",
+      "name": "PRIMADAYA PLASTISINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PEGE",
+      "name": "PANCA GLOBAL KAPITAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PEHA",
+      "name": "PHAPROS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PEVE",
+      "name": "PENTA VALENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PGAS",
+      "name": "PERUSAHAAN GAS NEGARA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PGEO",
+      "name": "PERTAMINA GEOTHERMAL ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PGJO",
+      "name": "BAHTERA BUMI RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PGLI",
+      "name": "PEMBANGUNAN GRAHA LESTARI INDAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PGUN",
+      "name": "PRADIKSI GUNATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PICO",
+      "name": "PELANGI INDAH CANINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PIPA",
+      "name": "MULTI MAKMUR LEMINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PJAA",
+      "name": "PEMBANGUNAN JAYA ANCOL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PJHB",
+      "name": "PELAYARAN JAYA HIDUP BARU Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PKPK",
+      "name": "PARAGON KARYA PERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PLAN",
+      "name": "PLANET PROPERINDO JAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PLAS",
+      "name": "POLARIS INVESTAMA TBK",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PLIN",
+      "name": "PLAZA INDONESIA REALTY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PMJS",
+      "name": "PUTRA MANDIRI JEMBAR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PMMP",
+      "name": "PANCA MITRA MULTIPERDANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PMUI",
+      "name": "PRIMA MULTI USAHA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PNBN",
+      "name": "BANK PAN INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PNBS",
+      "name": "BANK PANIN DUBAI SYARIAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PNGO",
+      "name": "PINAGO UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PNIN",
+      "name": "PANINVEST Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PNLF",
+      "name": "PANIN FINANCIAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PNSE",
+      "name": "PUDJIADI AND SONS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "POLA",
+      "name": "POOL ADVISTA FINANCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "POLI",
+      "name": "POLLUX HOTELS GROUP Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "POLL",
+      "name": "POLLUX PROPERTIES INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "POLU",
+      "name": "GOLDEN FLOWER Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "POLY",
+      "name": "ASIA PACIFIC FIBERS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "POOL",
+      "name": "POOL ADVISTA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PORT",
+      "name": "NUSANTARA PELABUHAN HANDAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "POSA",
+      "name": "BLISS PROPERTI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "POWR",
+      "name": "CIKARANG LISTRINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PPGL",
+      "name": "PRIMA GLOBALINDO LOGISTIK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PPRE",
+      "name": "PP PRESISI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PPRI",
+      "name": "PAPEROCKS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PPRO",
+      "name": "PP Properti Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PRAS",
+      "name": "PRIMA ALLOY STEEL UNIVERSAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PRAY",
+      "name": "FAMON AWAL BROS SEDAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PRDA",
+      "name": "PRODIA WIDYAHUSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PRDL",
+      "name": "PRODIA DIAGNOSTIC LINE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PSAB",
+      "name": "J RESOURCES ASIA PASIFIK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PSAT",
+      "name": "PANCARAN SAMUDERA TRANSPORT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PSDN",
+      "name": "PRASIDHA ANEKA NIAGA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PSGO",
+      "name": "PALMA SERASIH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PSKT",
+      "name": "RED PLANET INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PSSI",
+      "name": "IMC PELITA LOGISTIK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTBA",
+      "name": "BUKIT ASAM (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTDU",
+      "name": "DJASA UBERSAKTI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTIS",
+      "name": "INDO STRAITS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTMP",
+      "name": "MITRA PACK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTMR",
+      "name": "MASTER PRINT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTPP",
+      "name": "PP (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTPS",
+      "name": "PULAU SUBUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTPW",
+      "name": "PRATAMA WIDYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTRO",
+      "name": "PETROSEA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTSN",
+      "name": "SAT NUSAPERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PTSP",
+      "name": "PIONEERINDO GOURMET INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PUDP",
+      "name": "PUDJIADI PRESTIGE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PURA",
+      "name": "PUTRA RAJAWALI KENCANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PURE",
+      "name": "TRINITAN METALS AND MINERALS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PURI",
+      "name": "PURI GLOBAL SUKSES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PWON",
+      "name": "PAKUWON JATI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PYFA",
+      "name": "PYRIDAM FARMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "PZZA",
+      "name": "SARIMELATI KENCANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RAAM",
+      "name": "TRIPAR MULTIVSION PLUS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RAFI",
+      "name": "SARI KREASI BOGA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RAJA",
+      "name": "RUKUN RAHARJA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RALS",
+      "name": "RAMAYANA LESTARI SENTOSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RANC",
+      "name": "SUPRA BOGA LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RANS",
+      "name": "RANS ENTERTAINMEN INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RATU",
+      "name": "RAHARJA ENERGI CEPU Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RBMS",
+      "name": "RISTIA BINTANG MAHKOTASEJATI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RCCC",
+      "name": "UTAMA RADAR CAHAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RDTX",
+      "name": "RODA VIVATEX Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "REAL",
+      "name": "REPOWER ASIA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RELF",
+      "name": "GRAHA MITRA ASIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RELI",
+      "name": "RELIANCE SEKURITAS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RGAS",
+      "name": "KIAN SANTANG MULIATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RICY",
+      "name": "RICKY PUTRA GLOBALINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RIGS",
+      "name": "RIG TENDERS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RIMO",
+      "name": "RIMO INTERNATIONAL LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RISE",
+      "name": "JAYA SUKSES MAKMUR SENTOSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RLCO",
+      "name": "ABADI LESTARI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RMKE",
+      "name": "RMK ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RMKO",
+      "name": "ROYALTAMA MULIA KONTRAKTORINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ROCK",
+      "name": "ROCKFIELDS PROPERTI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RODA",
+      "name": "PIKKO LAND DEVELOPMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RONY",
+      "name": "ARACORD NUSANTARA GROUP Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ROTI",
+      "name": "NIPPON INDOSARI CORPINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RSCH",
+      "name": "CHARLIE HOSPITAL SEMARANG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RSGK",
+      "name": "KEDOYA ADYARAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RUIS",
+      "name": "RADIANT UTAMA INTERINSCO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "RUNS",
+      "name": "GLOBAL SUKSES SOLUSI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SAFE",
+      "name": "STEADY SAFE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SAGE",
+      "name": "SAPTAUSAHA GEMILANGINDAH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SAME",
+      "name": "SARANA MEDITAMA METROPOLITAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SAMF",
+      "name": "SARASWANTI ANUGERAH MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SAPX",
+      "name": "SATRIA ANTARAN PRIMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SATU",
+      "name": "KOTA SATU PROPERTI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SBAT",
+      "name": "SEJAHTERA BINTANG ABADI TEXTILE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SBMA",
+      "name": "SURYA BIRU MURNI ACETYLENE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SCCO",
+      "name": "SUPREME CABLE MANUFACTURING & COMMERCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SCMA",
+      "name": "SURYA CITRA MEDIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SCNP",
+      "name": "SELARAS CITRA NUSANTARA PERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SCPI",
+      "name": "ORGANON PHARMA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SDMU",
+      "name": "SIDOMULYO SELARAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SDPC",
+      "name": "MILLENNIUM PHARMACON INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SDRA",
+      "name": "BANK WOORI SAUDARA INDONESIA 1906 Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SEMA",
+      "name": "SEMACOM INTEGRATED Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SFAN",
+      "name": "SURYA FAJAR CAPITAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SGER",
+      "name": "SUMBER GLOBAL ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SGRO",
+      "name": "PRIME AGRI RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SHID",
+      "name": "HOTEL SAHID JAYA INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SHIP",
+      "name": "SILLO MARITIME PERDANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SICO",
+      "name": "SIGMA ENERGY COMPRESSINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SIDO",
+      "name": "INDUSTRI JAMU DAN FARMASI SIDO MUNCUL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SILO",
+      "name": "SILOAM INTERNATIONAL HOSPITALS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SIMA",
+      "name": "SIWANI MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SIMP",
+      "name": "SALIM IVOMAS PRATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SING",
+      "name": "SINGLETERRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SINI",
+      "name": "SINGARAJA PUTRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SIPD",
+      "name": "SREEYA SEWU INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SKBM",
+      "name": "SEKAR BUMI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SKLT",
+      "name": "SEKAR LAUT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SKRN",
+      "name": "SUPERKRANE MITRA UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SKYB",
+      "name": "NORTHCLIFF CITRANUSA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SLIS",
+      "name": "GAYA ABADI SEMPURNA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMAR",
+      "name": "SINAR MAS AGRO RESOURCES AND TECHNOLOGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMBR",
+      "name": "SEMEN BATURAJA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMCB",
+      "name": "SOLUSI BANGUN INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMDM",
+      "name": "SURYAMAS DUTAMAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMDR",
+      "name": "SAMUDERA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMGA",
+      "name": "SUMBER MINERAL GLOBAL ABADI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMGR",
+      "name": "SEMEN INDONESIA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMIL",
+      "name": "SARANA MITRA LUAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMKL",
+      "name": "SATYAMITRA KEMAS LESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMKM",
+      "name": "SUMBER MAS KONSTRUKSI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMLE",
+      "name": "SINERGI MULTI LESTARINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMMA",
+      "name": "SINAR MAS MULTIARTHA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMMT",
+      "name": "GOLDEN EAGLE ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMRA",
+      "name": "SUMMARECON AGUNG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMRU",
+      "name": "SMR UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SMSM",
+      "name": "SELAMAT SEMPURNA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SNLK",
+      "name": "SUNTER LAKESIDE HOTEL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SOCI",
+      "name": "SOECHI LINES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SOFA",
+      "name": "SOLUSI ENVIRONMENT ASIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SOHO",
+      "name": "SOHO GLOBAL HEALTH Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SOLA",
+      "name": "XOLARE RCR ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SONA",
+      "name": "SONA TOPAS TOURISM INDUSTRY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SOSS",
+      "name": "ALSOK INDONESIA SERVICES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SOTS",
+      "name": "SATRIA MEGA KENCANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SOUL",
+      "name": "MITRA TIRTA BUWANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SPMA",
+      "name": "SUPARMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SPRE",
+      "name": "SORAYA BERJAYA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SPTO",
+      "name": "SURYA PERTIWI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SQMI",
+      "name": "WILTON MAKMUR INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SRAJ",
+      "name": "SEJAHTERARAYA ANUGRAHJAYA Tbk, PT",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SRIL",
+      "name": "SRI REJEKI ISMAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SRSN",
+      "name": "INDO ACIDATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SRTG",
+      "name": "SARATOGA INVESTAMA SEDAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SSIA",
+      "name": "SURYA SEMESTA INTERNUSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SSMS",
+      "name": "SAWIT SUMBERMAS SARANA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SSTM",
+      "name": "SUNSON TEXTILE MANUFACTURER Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "STAA",
+      "name": "SUMBER TANI AGUNG RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "STAR",
+      "name": "CALCULUS GLOBAL VENTURES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "STRK",
+      "name": "LOVINA BEACH BREWERY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "STTP",
+      "name": "SIANTAR TOP Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SUDI",
+      "name": "SURYA DUMAI INDUSTRI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SUGI",
+      "name": "SUGIH ENERGY Tbk, PT",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SULI",
+      "name": "SLJ GLOBAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SUNI",
+      "name": "SUNINDO PRATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SUPA",
+      "name": "SUPER BANK INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SUPR",
+      "name": "SOLUSI TUNAS PRATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SURE",
+      "name": "SUPER ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SURI",
+      "name": "MAJA AGUNG LATEXINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SWAT",
+      "name": "SRIWAHANA ADITYAKARTA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "SWID",
+      "name": "SARASWANTI INDOLAND DEVELOPMENT Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TALF",
+      "name": "TUNAS ALFIN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TAMA",
+      "name": "LANCARTAMA SEJATI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TAMU",
+      "name": "PELAYARAN TAMARIN SAMUDRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TAPG",
+      "name": "TRIPUTRA AGRO PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TARA",
+      "name": "AGUNG SEMESTA SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TAXI",
+      "name": "EXPRESS TRANSINDO UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TAYS",
+      "name": "JAYA SWARASA AGUNG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TBIG",
+      "name": "TOWER BERSAMA INFRASTRUCTURE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TBLA",
+      "name": "TUNAS BARU LAMPUNG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TBMS",
+      "name": "TEMBAGA MULIA SEMANAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TCID",
+      "name": "MANDOM INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TCPI",
+      "name": "TRANSCOAL PACIFIC Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TDPM",
+      "name": "TRIDOMAIN PERFORMANCE MATERIALS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TEBE",
+      "name": "DANA BRATA LUHUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TECH",
+      "name": "INDOSTERLING TECHNOMEDIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TELE",
+      "name": "OMNI INOVASI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TFAS",
+      "name": "TELEFAST INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TFCO",
+      "name": "TIFICO FIBER INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TGKA",
+      "name": "TIGARAKSA SATRIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TGRA",
+      "name": "TERREGRA ASIA ENERGY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TGUK",
+      "name": "PLATINUM WAHAB NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TIFA",
+      "name": "KDB TIFA FINANCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TINS",
+      "name": "TIMAH (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TIRA",
+      "name": "TIRA AUSTENITE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TIRT",
+      "name": "TIRTA MAHAKAM RESOURCES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TKIM",
+      "name": "PABRIK KERTAS TJIWI KIMIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TLDN",
+      "name": "TELADAN PRIMA AGRO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TLKM",
+      "name": "TELKOM INDONESIA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TMAS",
+      "name": "TEMAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TMPO",
+      "name": "TEMPO INTI MEDIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TNCA",
+      "name": "TRIMUDA NUANSA CITRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TOBA",
+      "name": "TBS ENERGI UTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TOOL",
+      "name": "ROHARTINDO NUSANTARA LUAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TOPS",
+      "name": "TOTALINDO EKA PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TOSK",
+      "name": "TOPINDO SOLUSI KOMUNIKA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TOTL",
+      "name": "TOTAL BANGUN PERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TOTO",
+      "name": "SURYA TOTO INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TOWR",
+      "name": "SARANA MENARA NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TOYS",
+      "name": "SUNINDO ADIPERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TPIA",
+      "name": "CHANDRA ASRI PACIFIC Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TPMA",
+      "name": "TRANS POWER MARINE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRAM",
+      "name": "TRADA ALAM MINERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRGU",
+      "name": "CERESTAR INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRIL",
+      "name": "TRIWIRA INSANLESTARI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRIM",
+      "name": "TRIMEGAH SEKURITAS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRIN",
+      "name": "PERINTIS TRINITI PROPERTI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRIO",
+      "name": "TRIKOMSEL OKE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRIS",
+      "name": "TRISULA INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRJA",
+      "name": "TRANSKON JAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRON",
+      "name": "TEKNOLOGI KARYA DIGITAL NUSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRST",
+      "name": "TRIAS SENTOSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRUE",
+      "name": "TRINITI DINAMIK Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRUK",
+      "name": "GUNA TIMUR RAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TRUS",
+      "name": "TRUST FINANCE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TSPC",
+      "name": "TEMPO SCAN PACIFIC Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TUGU",
+      "name": "ASURANSI TUGU PRATAMA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "TYRE",
+      "name": "KING TIRE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UANG",
+      "name": "PAKUAN Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UCID",
+      "name": "UNI-CHARM INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UDNG",
+      "name": "AGRO BAHARI NUSANTARA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UFOE",
+      "name": "DAMAI SEJAHTERA ABADI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ULTJ",
+      "name": "ULTRAJAYA MILK INDUSTRY AND TRADING COMPANY Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UNIC",
+      "name": "UNGGUL INDAH CAHAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UNIQ",
+      "name": "ULIMA NITRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UNIT",
+      "name": "CAHAYA PERMATA SEJAHTERA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UNSP",
+      "name": "BAKRIE SUMATERA PLANTATIONS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UNTD",
+      "name": "TERANG DUNIA INTERNUSA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UNTR",
+      "name": "UNITED TRACTORS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UNVR",
+      "name": "UNILEVER INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "URBN",
+      "name": "URBAN JAKARTA PROPERTINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "UVCR",
+      "name": "TRIMEGAH KARYA PRATAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VAST",
+      "name": "VASTLAND INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VERN",
+      "name": "VERONA INDAH PICTURES Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICTORIA CARE INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VICO",
+      "name": "VICTORIA INVESTAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VINS",
+      "name": "VICTORIA INSURANCE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VISI",
+      "name": "SATU VISI PUTRA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VIVA",
+      "name": "VISI MEDIA ASIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VKTR",
+      "name": "VKTR TEKNOLOGI MOBILITAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VOKS",
+      "name": "VOKSEL ELECTRIC Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VRNA",
+      "name": "MIZUHO LEASING INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "VTNY",
+      "name": "VENTENY FORTUNA INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WAPO",
+      "name": "WAHANA PRONATURAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WBSA",
+      "name": "BSA LOGISTICS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WEGE",
+      "name": "WIJAYA KARYA BANGUNAN GEDUNG Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WEHA",
+      "name": "WEHA TRANSPORTASI INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WGSH",
+      "name": "WIRA GLOBAL SOLUSI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WICO",
+      "name": "WICAKSANA OVERSEAS INTERNATIONAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WIDI",
+      "name": "WIDIANT JAYA KRENINDO Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WIFI",
+      "name": "SOLUSI SINERGI DIGITAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WIIM",
+      "name": "WISMILAK INTI MAKMUR Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WIKA",
+      "name": "WIJAYA KARYA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WINE",
+      "name": "HATTEN BALI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WINR",
+      "name": "WINNER NUSANTARA JAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WINS",
+      "name": "WINTERMAR OFFSHORE MARINE Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WIRG",
+      "name": "WIR ASIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WMPP",
+      "name": "WIDODO MAKMUR PERKASA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WMUU",
+      "name": "WIDODO MAKMUR UNGGAS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WOMF",
+      "name": "WAHANA OTTOMITRA MULTIARTHA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WOOD",
+      "name": "INTEGRA INDOCABINET Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WOWS",
+      "name": "GINTING JAYA ENERGI Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WSBP",
+      "name": "WASKITA BETON PRECAST Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WSKT",
+      "name": "WASKITA KARYA (PERSERO) Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "WTON",
+      "name": "WIJAYA KARYA BETON Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "YELO",
+      "name": "YELOOO INTEGRA DATANET Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "YOII",
+      "name": "ASURANSI DIGITAL BERSAMA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "YPAS",
+      "name": "YANAPRIMA HASTAPERSADA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "YULE",
+      "name": "YULIE SEKURITAS INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "YUPI",
+      "name": "YUPI INDO JELLY GUM Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ZATA",
+      "name": "BERSAMA ZATTA JAYA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ZBRA",
+      "name": "DOSNI ROHA INDONESIA Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ZINC",
+      "name": "KAPUAS PRIMA COAL Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ZONE",
+      "name": "MEGA PERINTIS Tbk",
+      "sector": "Unclassified"
+    },
+    {
+      "symbol": "ZYRX",
+      "name": "ZYREXINDO MANDIRI BUANA Tbk",
+      "sector": "Unclassified"
+    }
+  ]
+}

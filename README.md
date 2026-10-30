@@ -9,8 +9,11 @@ Stage 0 was verified locally on Windows on 30 October 2026: six symbols synced,
 six rows. These are recorded checks, not a promise that the API is currently
 running or that the data is real time.
 
-The dashboard source is maintained separately at this stage. This backend
-folder does not yet contain a prediction model or a GitHub Pages frontend.
+Stage 1 is complete: the source was pushed to GitHub and the backend checks
+passed on Windows and Linux. The visual dashboard source is now included in
+[`web/`](web/README.md), alongside the Python backend. Its local default uses
+labelled demo data; connecting the MySQL API and preparing a static public
+release remain later integration work. No prediction model is implemented yet.
 
 ## Start here
 
@@ -19,10 +22,15 @@ For the existing working Windows installation, follow
 development dependencies, verification, the first commit, and pushing source
 to a new repository.
 
+For the visual dashboard, see [the repository layout](docs/repository-layout.md)
+and [`web/README.md`](web/README.md). The current source is a React/TypeScript
+application with Next.js and a separate Vinext/Cloudflare hosted runtime.
+
 ## Files
 
 | Path | Purpose |
 | --- | --- |
+| `web/` | Visual dashboard, styling, charts, its existing server routes, and frontend tests. |
 | `collector/sync_yahoo.py` | One run of the corrected Yahoo chart HTTP collector; writes quotes, bars, and sync logs. |
 | `collector/requirements.txt` | Collector dependencies. The HTTP implementation does not import yfinance. |
 | `collector/.env.example` | Placeholder collector configuration; copy only for a new installation. |
@@ -143,8 +151,9 @@ lock or a guarantee of future package availability.
 
 ## Project direction
 
-The agreed sequence is **1 → 4 → 5 → (2 + 6) → 3 → 7**, following the completed
-Stage 0. See [the roadmap](docs/roadmap.md). Source publication and website
+Stages 0 and 1 are complete. Continue **4 → 5 → (2 + 6) → 3 → 7**.
+See [the roadmap](docs/roadmap.md). Importing the existing UI is source
+organization, not completion of the UI/prediction stages. Source publication and website
 hosting are separate steps. GitHub Pages can serve the future static
 dashboard; it does not execute this Python API or MySQL server.
 

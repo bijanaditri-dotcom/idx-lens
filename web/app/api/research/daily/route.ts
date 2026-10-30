@@ -1,0 +1,5 @@
+import { finalizeDailyResearch } from '@/lib/server/full-market';
+import { dataStore } from '@/lib/server/data-store';
+export const dynamic='force-dynamic';
+export async function GET(){try{const db=dataStore();if(!db)throw new Error('Database unavailable');const row=await db.prepare('SELECT date,payload_json,updated_at FROM daily_research ORDER BY date DESC LIMIT 1').first<{date:string;payload_json:string;updated_at:string}>();if(!row)return Response.json({error:'No saved daily report yet'},{status:404});return Response.json({date:row.date,storedAt:row.updated_at,...JSON.parse(row.payload_json)},{headers:{'Cache-Control':'private, no-store'}});}catch{return Response.json({error:'Saved research unavailable'},{status:503});}}
+export async function POST(request:Request){const origin=request.headers.get('origin');if(origin&&origin!==new URL(request.url).origin)return Response.json({error:'Same-origin request required'},{status:403});try{return Response.json(await finalizeDailyResearch(),{headers:{'Cache-Control':'private, no-store'}});}catch{return Response.json({error:'Daily research unavailable'},{status:503});}}
