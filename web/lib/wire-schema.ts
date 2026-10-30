@@ -12,7 +12,8 @@ export const stockWireSchema=z.object({symbol:text,name:text,sector:text,history
   });
 export const stockDetailWireSchema=z.object({stock:stockWireSchema});
 export const marketWireSchema=z.object({mode:z.enum(['demo','live','mixed']),fetchedAt:text,snapshotAt:text,provider:text,refreshSeconds:n,
-  index:z.object({symbol:text,name:text,candles:z.array(candle).min(0).max(600),quote:stamp}),
+  quoteMaxAgeSeconds:n.int().min(60).max(604800).optional(),
+  index:z.object({symbol:text,name:text,candles:z.array(candle).min(0).max(600),quote:stamp,price:maybe.optional(),previousClose:maybe.optional()}),
   session:z.object({status:z.enum(['OPEN','CLOSED','BREAK']),phase:text,calendarVerified:z.boolean(),timeZone:text}),warnings:z.array(text),sources:z.array(z.object({id:text,name:text,platform:z.enum(['stockbit','news','x','market']),status:z.enum(['active','disabled','needs_access','error']),itemCount:n,checkedAt:text.nullable(),detail:text})).optional(),
   universe:z.object({total:n,scanned:n,attemptedToday:n,successfulToday:n,pending:n,failed:n,due:n,stale:n,registrySource:text,registryUrl:text,registryAsOf:text,listingVerified:z.boolean(),lastScanAt:text.nullable(),nextScanAt:text}).optional(),
   daily:z.object({date:text,asOf:text,priced:n,total:n,buys:n,method:text,candidates:z.array(z.object({symbol:text,name:text,score:maybe,coverage:n,signal:z.enum(['BUY','WATCH','AVOID','INCOMPLETE']),averageTurnover20d:maybe,reasons:z.array(text)})).max(10)}).optional(),publications:z.array(article).max(10000).optional(),

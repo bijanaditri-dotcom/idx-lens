@@ -27,11 +27,12 @@ export type Stock = RawStock & {
   foreignDaily: number | null; foreignWeekly: number | null; bandar: 'Accumulation' | 'Distribution' | 'Neutral' | 'Unavailable';
   sentimentLabel: 'Positive' | 'Neutral' | 'Negative' | 'Unavailable';
 };
-export type IndexData = { symbol: string; name: string; candles: Candle[]; quote: Stamp };
+export type IndexData = { symbol: string; name: string; candles: Candle[]; quote: Stamp; price?:number|null; previousClose?:number|null };
 export type MarketSession = { status: 'OPEN' | 'CLOSED' | 'BREAK'; phase: string; calendarVerified: boolean; timeZone: string };
 export type IntegrationSource = { id:string; name:string; platform:'stockbit'|'news'|'x'|'market'; status:'active'|'disabled'|'needs_access'|'error'; itemCount:number; checkedAt:string|null; detail:string };
 export type MarketData = {
   mode: 'demo' | 'live' | 'mixed'; fetchedAt: string; snapshotAt: string; stocks: Stock[]; index: IndexData;
+  quoteMaxAgeSeconds?: number;
   session: MarketSession; warnings: string[]; provider: string; refreshSeconds: number; sources?:IntegrationSource[];
   universe?:{total:number;scanned:number;attemptedToday:number;successfulToday:number;pending:number;failed:number;due:number;stale:number;registrySource:string;registryUrl:string;registryAsOf:string;listingVerified:boolean;lastScanAt:string|null;nextScanAt:string};
   daily?:{date:string;asOf:string;priced:number;total:number;buys:number;method:string;candidates:{symbol:string;name:string;score:number|null;coverage:number;signal:Stock['recommendation'];averageTurnover20d:number|null;reasons:string[]}[]};

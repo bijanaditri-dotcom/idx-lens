@@ -11,9 +11,11 @@ running or that the data is real time.
 
 Stage 1 is complete: the source was pushed to GitHub and the backend checks
 passed on Windows and Linux. The visual dashboard source is now included in
-[`web/`](web/README.md), alongside the Python backend. Its local default uses
-labelled demo data; connecting the MySQL API and preparing a static public
-release remain later integration work. No prediction model is implemented yet.
+[`web/`](web/README.md), alongside the Python backend. The Pages build reads
+whitelisted observations exported from the private API on your PC. The
+original Next.js local mode still defaults to demo data. Public deployment
+requires committing an export and completing the Pages workflow. No
+prediction model is implemented yet.
 
 ## Start here
 
@@ -28,8 +30,10 @@ application with Next.js and a separate Vinext/Cloudflare hosted runtime.
 
 To run the visual interface and publish a free public preview, follow
 [Run and publish the dashboard](docs/public-dashboard.md). The Pages build
-reuses the existing UI and displays labelled demonstration data. Real MySQL
-integration and the prediction model remain later work.
+reuses the existing UI. To supply observed prices through your private API,
+follow [API to public dashboard](docs/api-to-public-dashboard.md). Production
+builds require a validated local API export; demo mode is an explicit option.
+Daily-history backfilling and the prediction model remain later work.
 
 ## Files
 

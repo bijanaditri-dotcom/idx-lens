@@ -2,8 +2,10 @@
 
 The GitHub repository is public. Website hosting is separate. This change adds
 a static build of the existing visual interface and a GitHub Pages workflow.
-The first public release is a clearly labelled demonstration, with no local
-database connection or real-time price feed.
+The original preview used a clearly labelled demonstration. With the API
+export follow-up installed, use [API to public dashboard](api-to-public-dashboard.md)
+first: normal builds require `web/data/api-market.json` exported on your PC.
+This is periodic snapshot publishing, not a streaming price feed.
 
 ## Local dashboard matching the public version
 
@@ -25,8 +27,10 @@ build/preview pair. Its default local address is
 `http://127.0.0.1:5173/idx-lens/`.
 
 No `.env.local`, API bearer token, database password, or ChatGPT login is
-needed for the Pages preview. The build reads a deterministic sample snapshot;
-the UI displays its actual sample date and marks prices/headlines as illustrative.
+needed by the public browser. The local Python exporter reads the private API
+token on your PC. The build reads only whitelisted market observations from
+its exported JSON file. To deliberately build the illustrative preview, pass
+`--mode demo`; missing exports do not trigger a demo fallback.
 
 The existing server-based Next.js mode remains available with `dev:next` on
 port 3000. That mode is separate from the static Pages build.
@@ -83,11 +87,10 @@ methodology, CSV export, and browser-local watchlist components. Browser
 refresh requests read the published JSON snapshot. Research POST calls and
 server-only stock-detail fetches are disabled in this static mode.
 
-The current generator always publishes labelled demo data. Do not describe it
-as live market prices or model predictions. A later integration can export
-permitted real observations into the same schema, preserving source/fetch
-timestamps and measured data coverage. The local MySQL API token must stay
-out of browser code and public snapshots.
+The real-data adapter preserves source/fetch timestamps and missing fields.
+Observed prices are not guaranteed real time, and no prediction model is
+implemented. The local MySQL API token stays out of browser code and public
+snapshots. See the connected-data guide for export and publishing commands.
 
 ## Build and checks
 

@@ -13,7 +13,13 @@ excluded from this GitHub copy. Application code, the dependency lockfile, and
 placeholder environment template are retained. Importing source does not deploy
 the Site or change its access settings.
 
-For local UI development, install dependencies in `web/` and use its
+For the API-connected static frontend, follow
+[`api-to-public-dashboard.md`](api-to-public-dashboard.md). The local exporter
+reads private API credentials, writes only selected public observations, and
+the Pages build converts that export into the UI schema. Public browsers
+read a published JSON snapshot; they do not call the laptop's private API.
+
+For the original server-based local UI development, install dependencies in `web/` and use its
 `dev:next` script. The default environment starts a labelled demonstration
 dataset without a ChatGPT sign-in or a live MySQL connection. Keep the Python
 API token in a server environment when adding an adapter.

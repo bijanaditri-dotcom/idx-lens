@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "exportedAt": "2026-10-30T12:58:45Z",
+  "quoteMaxAgeSeconds": 900,
+  "stocks": [
+    {
+      "ticker": "ASII.JK",
+      "name": "Astra International Tbk",
+      "quote": {
+        "price": 4800.0,
+        "previousClose": 4690.0,
+        "currency": "IDR",
+        "marketTime": "2026-10-30T09:14:58Z",
+        "fetchedAt": "2026-10-30T12:50:48Z",
+        "source": "Yahoo Finance chart (HTTP)"
+      },
+      "dailyBars": [],
+      "omittedDailyBars": 0
+    },
+    {
+      "ticker": "BBCA.JK",
+      "name": "Bank Central Asia Tbk",
+      "quote": {
+        "price": 4980.0,
+        "previousClose": 4940.0,
+        "currency": "IDR",
+        "marketTime": "2026-10-30T09:14:55Z",
+        "fetchedAt": "2026-10-30T12:50:49Z",
+        "source": "Yahoo Finance chart (HTTP)"
+      },
+      "dailyBars": [],
+      "omittedDailyBars": 0
+    },
+    {
+      "ticker": "BBNI.JK",
+      "name": "Bank Negara Indonesia (Persero) Tbk",
+      "quote": {
+        "price": 3320.0,
+        "previousClose": 3240.0,
+        "currency": "IDR",
+        "marketTime": "2026-10-30T09:14:14Z",
+        "fetchedAt": "2026-10-30T12:50:50Z",
+        "source": "Yahoo Finance chart (HTTP)"
+      },
+      "dailyBars": [],
+      "omittedDailyBars": 0
+    },
+    {
+      "ticker": "BBRI.JK",
+      "name": "Bank Rakyat Indonesia (Persero) Tbk",
+      "quote": {
+        "price": 2800.0,
+        "previousClose": 2810.0,
+        "currency": "IDR",
+        "marketTime": "2026-10-30T09:14:56Z",
+        "fetchedAt": "2026-10-30T12:50:51Z",
+        "source": "Yahoo Finance chart (HTTP)"
+      },
+      "dailyBars": [],
+      "omittedDailyBars": 0
+    },
+    {
+      "ticker": "BMRI.JK",
+      "name": "Bank Mandiri (Persero) Tbk",
+      "quote": {
+        "price": 3720.0,
+        "previousClose": 3720.0,
+        "currency": "IDR",
+        "marketTime": "2026-10-30T09:14:58Z",
+        "fetchedAt": "2026-10-30T12:50:53Z",
+        "source": "Yahoo Finance chart (HTTP)"
+      },
+      "dailyBars": [],
+      "omittedDailyBars": 0
+    },
+    {
+      "ticker": "TLKM.JK",
+      "name": "Telkom Indonesia (Persero) Tbk",
+      "quote": {
+        "price": 1980.0,
+        "previousClose": 1980.0,
+        "currency": "IDR",
+        "marketTime": "2026-10-30T09:14:51Z",
+        "fetchedAt": "2026-10-30T12:50:54Z",
+        "source": "Yahoo Finance chart (HTTP)"
+      },
+      "dailyBars": [],
+      "omittedDailyBars": 0
+    }
+  ],
+  "index": {
+    "ticker": "^JKSE",
+    "name": "IDX COMPOSITE",
+    "quote": {
+      "price": 5057.05,
+      "previousClose": 5282.31,
+      "currency": "IDR",
+      "marketTime": "2026-10-30T09:00:05Z",
+      "fetchedAt": "2026-10-30T12:58:36Z",
+      "source": "Yahoo Finance chart (HTTP)"
+    },
+    "dailyBars": [],
+    "omittedDailyBars": 0
+  }
+}

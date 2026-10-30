@@ -2,6 +2,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { MarketData } from '@/lib/types';
 import { marketWireSchema } from '@/lib/wire-schema';
+import { snapshotFreshness } from '@/lib/snapshot-freshness';
 
 export function useMarket(initialData: MarketData | null, snapshotUrl = '/api/market') {
   const [data,setData]=useState(initialData),[error,setError]=useState<string|null>(null),[loading,setLoading]=useState(!initialData),[refreshing,setRefreshing]=useState(false);
@@ -16,7 +17,8 @@ export function useMarket(initialData: MarketData | null, snapshotUrl = '/api/ma
       try {
         const response=await fetch(snapshotUrl,{signal:controller.signal,cache:'no-store',headers:{Accept:'application/json'}});
         if(!response.ok)throw new Error(`Market service returned ${response.status}`);
-        const next=marketWireSchema.parse(await response.json()) as MarketData;
+        const parsed=marketWireSchema.parse(await response.json()) as MarketData;
+        const next=snapshotUrl==='/api/market'?parsed:snapshotFreshness(parsed);
         if(active && requestRef.current===controller) {setData(next);setError(null);failures=0;}
       }catch {
         if(active && requestRef.current===controller) {failures++;setError('Connection interrupted. Last snapshot retained; retrying automatically.');}
