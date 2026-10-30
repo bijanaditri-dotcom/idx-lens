@@ -1,6 +1,6 @@
 import vinext from "vinext";
 import { defineConfig } from "vite";
-import hostingConfig from "./.openai/hosting.json";
+import { existsSync, readFileSync } from "node:fs";
 import { readExecutionProfile } from "./scripts/execution-profile.mjs";
 import { configureToolEnvironment } from "./scripts/tool-environment.mjs";
 import { sites } from "./scripts/vite/sites-vite-plugin";
@@ -9,6 +9,12 @@ import { connectorPreview } from "./scripts/vite/connector-preview-plugin.mjs";
 const SITE_CREATOR_PLACEHOLDER_DATABASE_ID =
   "00000000-0000-4000-8000-000000000000";
 
+// GitHub/local copies omit the hosted Site identity. Bind storage only when
+// that checkout has its own platform manifest.
+const manifestUrl = new URL("./.openai/hosting.json", import.meta.url);
+const hostingConfig: { d1?: string | null; r2?: string | null } = existsSync(manifestUrl)
+  ? JSON.parse(readFileSync(manifestUrl, "utf8"))
+  : { d1: null, r2: null };
 const { d1, r2 } = hostingConfig;
 
 // macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.

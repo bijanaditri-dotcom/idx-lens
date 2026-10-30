@@ -26,6 +26,11 @@ For the visual dashboard, see [the repository layout](docs/repository-layout.md)
 and [`web/README.md`](web/README.md). The current source is a React/TypeScript
 application with Next.js and a separate Vinext/Cloudflare hosted runtime.
 
+To run the visual interface and publish a free public preview, follow
+[Run and publish the dashboard](docs/public-dashboard.md). The Pages build
+reuses the existing UI and displays labelled demonstration data. Real MySQL
+integration and the prediction model remain later work.
+
 ## Files
 
 | Path | Purpose |

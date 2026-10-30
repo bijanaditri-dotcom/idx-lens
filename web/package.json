@@ -16,7 +16,11 @@
     "test": "node --import tsx --test tests/*.test.ts",
     "dev:next": "next dev",
     "build:next": "next build",
-    "start:next": "next start"
+    "start:next": "next start",
+    "dev:pages": "vite --config vite.pages.config.ts --host 127.0.0.1",
+    "build:pages": "vite build --config vite.pages.config.ts",
+    "preview:pages": "vite preview --config vite.pages.config.ts --host 127.0.0.1",
+    "typecheck:pages": "tsc --noEmit -p pages/tsconfig.json"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

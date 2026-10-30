@@ -1,0 +1,55 @@
+name: Publish dashboard
+
+on:
+  push:
+    branches: [main]
+    paths: ['web/**', '.github/workflows/pages.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+      - name: Install locked dependencies
+        run: npx --yes pnpm@11.25.0 install --frozen-lockfile
+      - name: Check public frontend types
+        run: npx --yes pnpm@11.25.0 run typecheck:pages
+      - name: Run frontend tests
+        run: npx --yes pnpm@11.25.0 test
+      - name: Build public preview
+        run: npx --yes pnpm@11.25.0 run build:pages
+        env:
+          PAGES_BASE_PATH: /${{ github.event.repository.name }}/
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: web/dist-pages
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v6
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v5
