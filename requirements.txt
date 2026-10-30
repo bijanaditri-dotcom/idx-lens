@@ -1,0 +1,3 @@
+# Install the collector and API from the repository root.
+-r collector/requirements.txt
+-r api/requirements.txt

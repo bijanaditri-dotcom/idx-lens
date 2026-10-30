@@ -1,0 +1,52 @@
+# Local credentials; commit only placeholder examples.
+.env
+.env.*
+*.env
+!.env.example
+!*.env.example
+*.pem
+*.key
+
+# Python environments and generated files.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Local backups, databases, data downloads, and model binaries.
+*.bak
+*.bak.*
+*.log
+*.zip
+*.7z
+*.dump
+*.sql.gz
+*.db
+*.sqlite*
+*.pkl
+*.pickle
+*.joblib
+backups/
+idx-lens-stage1-backups/
+data/raw/
+ml/artifacts/
+
+# Frontend/build/tool state.
+node_modules/
+dist/
+build/
+.next/
+out/
+.wrangler/
+.openai/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
